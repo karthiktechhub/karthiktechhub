@@ -2,4 +2,4 @@
 
 ---
 
-![kKarthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiktechhub&show_icons=true&theme=radical)
+![kKarthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiktechhub&show_icons=true)
